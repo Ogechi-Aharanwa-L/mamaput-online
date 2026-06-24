@@ -1,0 +1,51 @@
+MamaPutOnline Restaurant(Vibe Coding Prompts using Chat GPT)
+
+Prompt 1:(An Overview).. I am new to Tech and need assistance to build a unique landing page for a Nigerian online Restaurant. 
+An overview, the name of the restaurant will be MamaPutOnline. She will sell different types of Nigerian cooked staples and delicacies, including ewedu, egusi, ora okazi, edikaikong, ogbono, and okro. Other staple foods she offers are Jollof Rice, porridge yam, porridge beans, fried plantain, abacha, nkwobi, fried chicken, Nigerian fried rice, kpomo, isi-ewu, etc.
+The color theme will be;
+Burgundy: #5A0F17,Deep Burgundy: #70141D, Wine Red: #8B1E2D,Gold: #D4A64A,Cream Background: #fff4e6,Soft Cream: #F5E6C8,Dark Brown Text: #3A120B,Clay Brown: #8A4B2A,Olive Green: #3F4A2F.
+ We will build section by section, with the clearest high definition images and stunning colors. The page should showcase Nigerian culture through food,and the background of the webpage should have images(faded) of traditional methods of food sourcing and preparation.Build with Tailwind CSS.
+ Confirm you understand what is required before we start.
+Prompt 2:(Nav Bar)..Menu section(Navigation bar): By the top left, there should be a logo ( a claypot slightly open with steam flowing upwards(the steam should be animated with an upward flow)) the name of the restaurant stylishly, MamaPutOnline crafted, be placed immediately after the logo, then in the middle of the menu bar should be the navigation links which should include the following(with dropdowns);
+- Products
+- Services
+- Customer Service
+- Contact Us
+The main color of the menu bar should be tomato red,a stylish search window should be at the top left for medium and large screens and a responsive hamburger icon for mobile and small screens.
+ Prompt 3: (main section)..This section comes after the hero section and before the remaining landing page sections.The main menu section should showcase selected Nigerian meals in a polished, premium, appetizing way,It should not look like a plain product grid or Excel-style cards but like pinterest card grid showcasing Nigerian culture with a modern restaurant ordering experience.The section should include:
+Featured meals
+Soups and swallows
+Rice dishes
+Local delicacies
+Proteins, snacks and sides
+=== Main Section Heading & Paragraph ===
+a. the section should have a centered section header saying MamaPutOnline Menu then underneath Hot Nigerian Meals, Served With Soul. Explore our most loved soups,rice dishes,delicacies, proteins and snacks all prepared with real Nigerian flavour. the heading should use the colors burgundy, gold, warm cream and dark brown text.
+==== Featured Section===
+b. Build a features section with a sidebar to the left, featured cards on the right, the side bar should rest close to the left margin and not float awkwardly like a small card, with a burgundy gradient background and gold highlights, it should contain links(#featured,#soups,#rice,#delicacies,#proteins) that scroll to sections on the same page. It should include a title: Mama's Kitchen, short text, section links, Open 24/7 and an cta button, the length should not exceed that of the  featured section.
+=== Other sections ===
+c. The sections following should be full width and centered headings, these sections should include soups & swallows section, Rice Dishes, Local Delicacies, Proteins,Snacks and Sides section.The grid/card style should use a Pinterest/masonry style layout, not equal boxes, use varied card heights to achieve this, each card should include food image,food name(bold),Quantity or serving description, price in naira, Order Now button.
+d. === Card Content/Details ===
+Split the cards(dishes)into:
+ - Featured Favourites: 4 cards (Amala & Ewedu, Jollof & Plantain, Peppered Turkey, Nkwobi, include labesl such as Chef's Pick, Most Popular, Hot, Premium)
+ - Soups & Swallows: 5 cards (include Egusi soup, Afang, Bitterleaf, Oha and Edika Ikong)
+ - Rice Dishes: 5 cards (use Fried Rice and Turkey,Ofada rice and Sauce, Asun Fried Rice, Palm Oil Rice,Rice and Gizzard Sauce, add labels..hot,fast selling, local favourite).
+ - Local Delicacies: 4 cards (use Abacha Special,Catfish pepperSoup, Ukwa, Ewa Agoyin).
+ - Proteins, Snacks & Sides: 4 cards, include Fried croaker fish, peppered kpomo, small chops platter, and moi moi.
+Images will be stored inside images folder and use object-cover/contain.The section must be responsive, cards arranged neatly for each breakpoint. 
+
+=====Why Choose Us Section====
+Build a 'why choose us' snippet, the section must build trust, prepared fresh by experienced Nigerian cooks and delivered quickly.
+a. There should be a Chef Story Card, containing an image of 'Mama'on the right and a text on the left, the image(Mama) should wear a 'MamaPutOnline'apron. Mama should be a polished middle aged woman smiling into the camera and holding a cooking spoon, the image should be friendly and welcoming. The text on the left should introduce the human side of the brand, focusing that meals are prepared fresh by native cooks who understand native seasoning. Some of the featured food like smoky jollof rice, rich soups, local delicacies.
+b. After this card should be four other cards in a grid, on large screens they should be arranged in twos. Each card should have a title and a paragraph. The cards should be Experienced Nigerian Chefs, Fresh Ingredients, Fast Delivery ,and Clean Preparation. the colors should be in line with the theme and professional using Font Awesome icons.
+
+===== Customer Reviews Section Prompt =====
+A "Customer Reviews" section comes next just before the footer, the aim is to give the brand a real, trusted, feel and encourage patronage.
+a. The section should use warm cream background to correspond with theme color,the heading 'People dey Enjoy Mama's Food' should be centered, in burgundy and have a wide letter spacing.
+b. Create 3 customer review cards, each should contain customer name, 'verified customer' label, star rating, review text, and meal ordered. Themeals should have a natural feel, add a little pidgin (for the 9ja feel). Add a 'Order Your Meal Now' button, it should link to the footer section and have a smooth hover effect.
+
+====== Footer Section Prompt ====
+Finally build a footer section to close the landing page neatly. It should use a mix of burgundy and gold, the text should be white.
+a. The footer should be divied into four main columns  on large screens and stack neatly on smaller screens. The columns should include Brand area, Quick links, Menu Categories, Contact and Social media. 
+b. The brand area should have the brand name in the same calligraphy as in the nav bar with an inscription 'Traditional Nigerian flavour,freshly prepared and delivered with care'. the Quick links should include Home, Menu, Why Choose Us, Reviews, Contact, eavh with a hover effect (the text changes to gold). The menu categories column should list the major menu sections..Soups &  Swallows, Rice Dishes, Local Dishes, and Protein & Sides.These links should scroll to the correct sections with the page. Contact and Social Media should contain WhatsApp number, Email address, Location, Open 24/7 then WhatsApp, Facebook, Istagram, TikTok, and X/Twitter.
+c. The last part of the footer should have a top border, have the copywrite text and a 'Back to Top' button with a font awesome arrow up icon, all matching the landing page color theme.
+
